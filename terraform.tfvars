@@ -1,0 +1,7 @@
+aws_region        = "ap-south-1"
+vpc_id            = "vpc-088e98a024bf9dcc8"
+public_subnet_id  = "subnet-0dc431a3fd591a103"
+my_public_ip      = "0.0.0.0/0"
+key_pair_name     = "devops"
+private_cidr_block = "10.0.50.0/24"
+sg_id               = "sg-0123456789abcdef0"
